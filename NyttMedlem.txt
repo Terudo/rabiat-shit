@@ -24,7 +24,7 @@ Link: https://github.com/Terudo/rabiat-shit/raw/main/SharedMediaV2.zip
 
 **Gargul**
 Du vil få opp noen små knapper som du kan trykke på for å rolle, og der vil det stå 2nd bis etc
-    **• 100** = Second bis. Altså itemet dere ville hatt dersom dere ikke får det som står på ønskelista. :100rogue: 
-    **• 99** = Big upgrade. Det er alle items som er en del bedre enn de dere har. :99~2: 
-    **• 98** = Minor upgrade. Items som bare er litt bedre enn de dere har.
+    **• 100** = Second bis. Et VELDIG godt item, kun slått av BIS for den slotten. Skal ikke brukes om hva som helst. :100rogue: 
+    **• 99** = Big upgrade. Stor upgrade, både i ilvl og hvis det gir "riktig" stats. :99~2: 
+    **• 98** = Minor upgrade. Litt mindre upgrade, kanskje en liten ilvl bump eller upgrade men "feil" stats.
     **• 97** = OS. Viktige offspecs som offtanks for folk som faktisk tanker vil bli prioritert overfor andre :9parse:
