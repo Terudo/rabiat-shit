@@ -1,0 +1,30 @@
+**Hei og velkommen som ny raider i Rabiat, :Rabiat: Team Noggenfogger :Rabiat:**
+
+Her er litt praktisk informasjon angående loot, addons osv.
+
+**Loot**
+
+I Team Noggenfogger benytter vi oss av Loot Council, med ønskelister fra tjenesten That's My Bis (https://thatsmybis.com/) tatt til betrakning.
+Vi setter da opp en prio liste for å kunne fordele loot så gjevnt som mulig, hvor vi så langt det lar seg gjøre vil prøve å fordele det ut ifra rank i din ønskeliste.
+
+Så steg 1 vil være å logge på denne tjenesten med discord kontoen din. En officer vil da opprette en character og linke den med din discord bruker.
+
+På din profil vil du da ha en knapp som heter  ":moneybag: wishlist & loot" her kan du opprette en ønskeliste. Før ny phase vil den hete: "Phase x wishlist". Er vi midt i en fase vil den hete "Px til ettertanke"
+Gi beskjed til en officer når listen er fullført.
+
+**Addons**
+
+Vi krever at alle raiders skal ha weakura installert og FOJJI sin raiding pakke for ulduar.
+Pre-req: https://github.com/Terudo/rabiat-shit/raw/main/SharedMediaV2.zip
+Last ned og legg i AddOns folder
+
+Import av WA:
+Light mode (litt mindre varsler, fint når man er godt kjent med mechanics): https://raw.githubusercontent.com/Terudo/rabiat-shit/main/README_LIGHT.md
+Full mode: https://raw.githubusercontent.com/Terudo/rabiat-shit/main/README.md
+
+Gargul
+Du vil få opp noen små knapper som du kan trykke på for å rolle, og der vil det stå 2nd bis etc
+- 100 = Second bis. Altså itemet dere ville hatt dersom dere ikke får det som står på ønskelista. :100rogue: 
+- 99 = Big upgrade. Det er alle items som er bedre enn de dere har. :99~2: 
+- 98 = Minor upgrade. Items som bare er litt bedre enn de dere har.
+- 97 = OS. Viktige offspecs som offtanks for folk som faktisk tanker vil bli prioritert overfor andre :9parse:
