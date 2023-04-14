@@ -1,4 +1,11 @@
-:Rabiat: __**Våre raids:**__ :Rabiat: 
+:flag_no: **Rabiat** :flag_no:
+> Norsktalende raiding guild med 4 aktive raid teams, rekrutterer for å styrke rosterne.
+
+:Rabiat:  **Litt om oss:** :Rabiat: 
+> Rabiat er en aktiv raiding guild som har eksistert siden starten av Classic. 
+> I guilden har vi en sterk kjerne der flesteparten har raida siden Classic release, og mange mye lenger, dette gjelder for alle 3 raidlagene våre.
+
+:date: **Raid:** :date:
 > ***Team Noggenfoggers***: Onsdag og Søndag, 19:30 - 23:00 (LC)
 > - Rabiat sitt opprinnelige lag der de fleste har spilt sammen siden classic release
 > - Lag som kjører effektive clears, men uten å sette opp ekstra raiddager på progress eller kjøre hardt på PTR. Kjører heller ikke splitruns
@@ -13,19 +20,10 @@
 > 
 > ***Team Savant***: Torsdag og Søndag, 1900 - 23:00 (LC)
 > - Savant er Rabiat sitt nyeste lag, og kom inn i P2 av WOTLK
-> - Dette er et lag som stiller høyere krav til raiders, der de blant annet krever en alt til splitruns, PTR practice og ekstra raiddager til progress. I tillegg kjører de speedruns når content er på farm
+> - Dette er et lag som stiller høyere krav til raiders, der de blant annet krever høy attendance, en alt til splitruns, PTR practice og ekstra raiddager til progress. I tillegg kjører de speedruns når content er på farm
 > 
 > ***Inhouse GDKP - 100% Split***: Søndager, 19:30 - 2300
 > - Rabiat sin fantastiske inhouse GDKP med 100% split som kjører når vi har content på farm og tid til å sette av en dag til det
-
-:peepoNorge~1: __**Litt om oss**__ :peepoNorge: 
-> Rabiat er en norsk raiding guild som for øyeblikket har fire aktive raidlag. Vi søker nå etter nye rekrutter for å styrke våre rosters. Siden starten av Classic har vi vært en aktiv guild med en solid historie. Vi startet opprinnelig på Noggenfogger, flyttet til Firemaw og har nå funnet vårt hjem på Gehennas.
-> 
-> I guilden vår har vi en sterk kjerne med medlemmer som har raidet siden Classic release, dette gjelder for alle våre fire raidlag. Gjennomsnittsalderen på medlemmene er rundt 30 år. Vårt guild community er svært aktivt med tre raidlag i tillegg til en mengde sosiale spillere. Dette gjør at det alltid er aktivitet både ingame og på vår Discord-server.
-> 
-> Vi har en stabil raiding core og ledelse for alle våre lag, og aksepterer også spillere som kun ønsker å være med for den sosiale delen av guilden. For de som ønsker å delta i raidene våre, kjører vi ofte 25-manns GDKP, 10-manns raids eller heroics for å inkludere flest mulig.
-> 
-> Hvis du er en erfaren spiller som ønsker å bli med i en norsk raiding guild med en solid kjerne, eller hvis du bare ønsker å være en del av et aktivt og sosialt community, er du hjertelig velkommen til å kontakte oss for å vite mer!
 
 :pepelook: __**Hva ser vi etter?**__ :pepelook: 
 > :shaman~6:    **Shaman** | Enhance / Resto
@@ -37,7 +35,15 @@
 > :hunter~5:    **Hunter** | Survival
 > :priest~6:    **Priest ** | Holy / Shadow
 > :paladin~6:    **Paladin** | Holy
-(Alle classes blir tatt i betraktning)
+> 
+> For øyeblikket er dette classene vi fokuserer på for å styrke alle tre rosterne våre, men gode spillere vil alltid bli vurdert.
+> 
+> Er du interessert i å raide forventer vi at du vet hvordan du spiller classen din,
+> og det er forventet at du bruker fulle consumes under raid.
+> 
+> Vi aksepterer også de som kun ønsker å være med for den sosiale delen, 
+> og det kjøres i gang 10-man raids eller heroics for de som vil være med på det.
 
-**Ta kontakt med @lopez#5043 (Noggenfoggers), @Scuffed#8319 (Exitquit), @Lykke#4250 (Oljefondet), Thepear#2852(Savant) eller en av de andre offiserene på discorden vår:**
-https://discord.gg/rabiat
+Socials som har lyst til å raide kan gjerne bare ta kontakt med en officer så ser vi hva vi får til
+
+Ta kontakt med en officer for spørsmål/info
