@@ -27,4 +27,4 @@
 > :rogue~6:    **Rogue** | Assassination / Combat
 > :hunter~5:    **Hunter** | Survival
 > :priest~6:    **Priest ** | Holy / Shadow
-> :rpaladin:    **Paladin** | Holy
+> :rpaladin:1096754779054682232   **Paladin** | Holy
