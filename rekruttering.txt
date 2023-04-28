@@ -29,3 +29,4 @@
 > :priest~6:    **Priest ** | Holy / Shadow
 > <:rpaladin:1096754779054682232>   **Paladin** | Holy
 <:rpaladin:1096754779054682232> 
+<:rpaladin:1101488245386268693>
