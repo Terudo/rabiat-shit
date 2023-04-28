@@ -28,3 +28,4 @@
 > :hunter~5:    **Hunter** | Survival
 > :priest~6:    **Priest ** | Holy / Shadow
 > <:rpaladin:1096754779054682232>   **Paladin** | Holy
+<:rpaladin:1096754779054682232> 
