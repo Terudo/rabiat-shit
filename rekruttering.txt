@@ -28,4 +28,3 @@
 > :hunter~5:    **Hunter** | Survival
 > :priest~6:    **Priest ** | Holy / Shadow
 > :paladin~6:    **Paladin** | Holy
-(Alle classes blir tatt i betraktning)
