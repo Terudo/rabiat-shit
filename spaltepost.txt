@@ -1,3 +1,5 @@
+:flag_no: **__Rabiat__** :flag_no: 
+
 :Rabiat: __**Våre raids:**__ :Rabiat: 
 > ***Team Noggenfoggers***: Onsdag og Søndag, 19:30 - 23:00 (LC)
 > - Rabiat sitt opprinnelige lag der de fleste har spilt sammen siden classic release
@@ -9,7 +11,7 @@
 > 
 > ***Team Oljefondet***: Onsdag og Tirsdag, 19:30 - 23:00 (LC)
 > - Team OF kom inn og reddet det tredje raidlaget vårt da de som tok ansvar for laget forsvant under WOTLK release
-> - Som resten av Rabiat kjører OF på med raske clears uten å nødvendigvis kalle det speedruns, men i motsetning til NF og EQ kan de sette opp en ekstra raiddag dersom det trengs til progress
+> - Som resten av Rabiat kjører OF på med raske clears uten å nødvendigvis kalle det speedruns
 > 
 > ***Inhouse GDKP - 100% Split***: Søndager, 19:30 - 2300
 > - Rabiat sin fantastiske inhouse GDKP med 100% split som kjører når vi har content på farm og tid til å sette av en dag til det
@@ -34,5 +36,5 @@
 > :priest~6:    **Priest ** | Holy / Shadow
 (Alle classes blir tatt i betraktning)
 
-**Ta kontakt med @lopez#5043 (Noggenfoggers), @Scuffed#8319 (Exitquit), @Dysj#6876 (Oljefondet) eller en av de andre offiserene på discorden vår:**
+**Ta kontakt med lopez#5043 (Noggenfoggers), Scuffed#8319 (Exitquit), Dysj#6876 (Oljefondet) eller en av de andre offiserene på discorden vår:**
 https://discord.gg/rabiat
